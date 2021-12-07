@@ -2,9 +2,11 @@
 
 # Paper : a reading list
 
+我的知乎：https://www.zhihu.com/people/zcyyy-74/posts
+
 ## Content
 
-1.**ViT:**[[paper]()][[code](https://github.com/lucidrains/vit-pytorch)][[code(timm)](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py)]
+1.**ViT:**[[paper]()][[code](https://github.com/lucidrains/vit-pytorch)][[code(timm)](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py)][[ViT代码阅读_知乎](https://zhuanlan.zhihu.com/p/442125846?)]
 
 2.**BEiT: BERT Pre-Training of Image Transformers.** [[paper](http://arxiv.org/abs/2106.08254)] [[code](https://github.com/microsoft/unilm/tree/master/beit)]
 
