@@ -8,7 +8,9 @@
 
 ## Content
 
-### Problems: **Why the bias of Key is ignored in some Vision Transformers](https://www.zhihu.com/question/506218961)**
+### Problems: 
+
+**Why the bias of Key is ignored in some Vision Transformers](https://www.zhihu.com/question/506218961)**
 
 ### 1.**ViT:**[[paper]()][[code](https://github.com/lucidrains/vit-pytorch)][[code(timm)](https://github.com/rwightman/pytorch-image-models/blob/master/timm/models/vision_transformer.py)][[ViT代码阅读_知乎](https://zhuanlan.zhihu.com/p/442125846?)]
 ![image](Paper/figs/vit.png)
