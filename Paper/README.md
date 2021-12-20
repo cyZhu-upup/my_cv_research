@@ -17,3 +17,6 @@
 ### 4.**Swin Transformer.** [[paper](http://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)][[代码阅读(知乎)](https://zhuanlan.zhihu.com/p/445070417)]
 
 ![image](figs/swin.png)
+
+
+### 5.**YOLOv4: Optimal Speed and Accuracy of Object Detection.(record tricks only)**[[paper](http://arxiv.org/abs/2004.10934)][[一些tricks记录](https://zhuanlan.zhihu.com/p/447018569)]
