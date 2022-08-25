@@ -1,7 +1,9 @@
 # My Computer Vision Research
 记录CV研究，包括竞赛，论文阅读，代码阅读
 
-
+```
+算法的终点是软开
+```
 # Paper : a reading list
 
 我的知乎：https://www.zhihu.com/people/zcyyy-74/posts
